@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Neerajupadhayay858
 - 👀 I’m interested in ...learn something new 
-- 🌱 I’m currently learning ...c,c++,python,Java, javascript,HTML , CSS,c#, Ruby.
+- 🌱 I’m currently learning ...c,c++,python,Java, javascript,HTML , CSS,c#, Ruby, cybersecurity.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: ...He
